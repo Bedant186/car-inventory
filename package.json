@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/supertest": "^7.2.1",
+    "autoprefixer": "^10.5.4",
+    "jest": "^30.4.2",
+    "postcss": "^8.5.25",
+    "supertest": "^7.2.2",
+    "tailwindcss": "^4.3.3",
+    "ts-jest": "^29.4.12",
+    "tsx": "^4.23.1"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "axios": "^1.19.0",
+    "jwt-decode": "^4.0.0",
+    "lucide-react": "^1.28.0"
+  }
+}
