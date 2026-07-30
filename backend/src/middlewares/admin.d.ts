@@ -1,0 +1,4 @@
+import type { Request, Response, NextFunction } from "express";
+export declare const requireAdmin: (req: Request, res: Response, next: NextFunction) => Response<any, Record<string, any>> | undefined;
+export default requireAdmin;
+//# sourceMappingURL=admin.d.ts.map
